@@ -53,8 +53,8 @@
     <splash src="res/screen/android/screen-xhdpi-portrait.png" platform="android" qualifier="xhdpi" />
     <splash src="res/icon/android/icon-144-xxhdpi.png" platform="android" qualifier="xxhdpi" />
     
-    <plugin name=" cordova-plugin-camera" spec="2.1.0" source="npm" />
-    <plugin name=" cordova-plugin-splashscreen" spec="3.2.0" source="npm" />
+    <plugin name="cordova-plugin-camera" spec="2.1.0" source="npm" />
+    <plugin name="cordova-plugin-splashscreen" spec="3.2.0" source="npm" />
     <plugin name="cordova-plugin-device" spec="1.1.1" source="npm" />
     <plugin name="cordova-plugin-dialogs" spec="1.2.0" source="npm" />
     <plugin name="cordova-plugin-geolocation" spec="2.1.0" source="npm" />
